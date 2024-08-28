@@ -1,0 +1,5 @@
+
+
+Nome:daniel|Idade:18|anos|Sexo:Outros|Número:879
+Nome:daniela|Idade:86|anos|Sexo:Masculino|Número:963
+Nome:julia|Idade:63|anos|Sexo:Masculino|Número:789
